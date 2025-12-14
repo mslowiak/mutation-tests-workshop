@@ -1,4 +1,6 @@
+.idea
 node_modules
 .stryker-tmp
 reports
+coverage
 .DS_Store
