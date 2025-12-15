@@ -13,7 +13,7 @@ Contains production code and tests **without** mutation testing frameworks.
 
 **To run tests:**
 ```bash
-npm npm run test
+npm run test
 ```
 
 **Activity:** Review the code and tests. Discuss what edge cases might be missing. 
