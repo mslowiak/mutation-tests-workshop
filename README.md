@@ -12,7 +12,9 @@ All the examples are placed under `mutation-tests-ts-example` directory.
 Contains production code and tests **without** mutation testing frameworks.
 
 **To run tests:**
-- **TypeScript:** `npm run test`
+```bash
+npm npm run test
+```
 
 **Activity:** Review the code and tests. Discuss what edge cases might be missing. 
 Can you spot untested scenarios just by reading the code? You might add missing test case scenarios :)
